@@ -11,12 +11,10 @@
 </br>
 
 - 🔧 I’m currently working on ...Online Stock Exchange Company.
-
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 💡 I’m currently focusing on Monitoring field including Prometheus/Victoriametrics/Grafana/Loki.
 - 📖 I’m currently learning ...ebpf on Observability.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- ❄️  I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...scz9991@163.com.
-
 <hr>
 
 </br>
