@@ -14,7 +14,7 @@
 - 💡 I’m currently focusing on Monitoring field including Prometheus/Victoriametrics/Grafana/Loki.
 - 📖 I’m currently learning ...ebpf on Observability.
 - ❄️  I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gravesshang@gmail.com.
+- 📫 How to reach me gravesshang@gmail.com.
 <hr>
 
 </br>
